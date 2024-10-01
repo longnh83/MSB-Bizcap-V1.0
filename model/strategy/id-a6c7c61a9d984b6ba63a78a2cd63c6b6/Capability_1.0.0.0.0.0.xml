@@ -1,0 +1,9 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="1.0.0.0.0.0 Drivers of Organization"
+    id="1.0.0.0.0.0"
+    documentation="The capability encapsulates sub-capabilities that drives organization direction and management">
+  <properties
+      key="Biz Owner"
+      value="MSB"/>
+</archimate:Capability>

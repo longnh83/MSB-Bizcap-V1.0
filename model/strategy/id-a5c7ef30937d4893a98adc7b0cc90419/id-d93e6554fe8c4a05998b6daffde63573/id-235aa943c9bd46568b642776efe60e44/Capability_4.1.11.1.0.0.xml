@@ -1,0 +1,5 @@
+<archimate:Capability
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="4.1.11.1.0.0 Internal authentication Management"
+    id="4.1.11.1.0.0"
+    documentation="The capability to continuous identify and verify someone by organization's own system (e.g., password, NCF card, biometrics data, SSO, etc.)"/>
