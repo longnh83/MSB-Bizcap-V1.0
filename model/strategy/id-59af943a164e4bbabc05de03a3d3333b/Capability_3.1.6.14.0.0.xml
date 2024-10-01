@@ -1,5 +1,0 @@
-<archimate:Capability
-    xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="3.1.6.14.0.0 Merchant Relations Management"
-    id="3.1.6.14.0.0"
-    documentation="Năng lực quản lý tài khoản các nhà cung cấp dịch vụ (Merchant), các điều kiện điều khoản theo yêu cầu cụ thể của Merchant đó (loại merchant, rủi ro, các điều kiện, điều khoản). Bao gồm các dịch vụ mở tài khoản Merchant, cài đặt cấu hình máy POS, sao kê, phí Ví dụ: Ngân hàng mở tài khoản cho Merchant cho phép thanh toán bằng thẻ và tài khoản của Merchant"/>
